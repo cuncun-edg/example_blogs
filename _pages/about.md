@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-从今天开始 我也要开始 好写博客了
+从今天开始 我也要开始 好好写博客了
 
 
 
